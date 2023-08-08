@@ -2,6 +2,7 @@
 A repo for a website, based around a home all connecting to a given "home", allowing them to all view shared notes, calendars, lists, and other things
 
 TODO:
+
     - [ ] Create main page showing what product is
     - [ ] Allow users to create accounts
     - [ ] Allow users to log in
