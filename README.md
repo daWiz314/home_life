@@ -7,6 +7,8 @@ TODO:
 - [ ] Allow users to log in
     - [ ] Create forgot password
     - [ ] Create forgot username
+- [ ] Allow users to "invite" other people to their groups
+    - Will be done with email invites
 - [ ] Allow users to create calendars
     - [ ] Allow users to "subscribe" to calendars
 - [ ] Allow users to create notes with their groups
