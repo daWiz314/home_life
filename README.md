@@ -5,7 +5,11 @@ TODO:
 - [ ] Create main page showing what product is
     - [ ] Showcase use cases
     - [ ] Explain how to use
-    - [ ] Sign up for updates / closed beta
+- [ ] Other pages
+    - [ ] Beta sign up
+    - [ ] Pricing
+    - [ ] Recent updates
+    - [ ] Timeline for features
 - [ ] Allow users to create accounts
 - [ ] Allow users to log in
     - [ ] Create forgot password
