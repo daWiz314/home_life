@@ -1,6 +1,10 @@
 # home_life
 A repo for a website, based around a home all connecting to a given "home", allowing them to all view shared notes, calendars, lists, and other things
 
+
+
+All of the following TODO is VERY late down the line, have to actually build it first smh
+
 TODO:
 - [ ] Create main page showing what product is
     - [ ] Showcase use cases
